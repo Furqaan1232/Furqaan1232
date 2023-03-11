@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Furqaan</h1>
 <h3 align="center">Python Beginner / Developer</h3>
 
+<pI’m Furqan. Moreover, I’m a Python Developer, software engineer by profession and entrepreneur by passion, and hopefully soon too be a GitHub Star 🌟! 
+</p>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=furqaan1232&label=Profile%20views&color=0e75b6&style=flat" alt="furqaan1232" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=furqaan1232" alt="furqaan1232" /></a> </p>
