@@ -3,5 +3,5 @@
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=furqaan1232&show_icons=true&theme=dracula)
-
+ 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=furqaan1232)](https://github.com/anuraghazra/github-readme-stats)
